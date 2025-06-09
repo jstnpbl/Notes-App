@@ -4,7 +4,7 @@
 
 NotesKeeper is a fully responsive notes application built with vanilla HTML, CSS, and JavaScript. It provides CRUD functionality for notes management and works offline with Progressive Web App (PWA) capabilities. This project demonstrates how to build a modern, functional web application without relying on frameworks or backend services.
 
-![NotesKeeper App Screenshot](./screenshots/screenshot.png)
+![NotesKeeper App Screenshot](assets/screenshot.PNG)
 *[Screenshot placeholder - Add actual screenshot after deployment]*
 
 ## ✨ Features
